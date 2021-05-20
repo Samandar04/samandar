@@ -1,1 +1,141 @@
-/* No CSS *//*# sourceMappingURL=mainn.css.map */
+.container {
+  width: 1200px;
+  margin: auto;
+}
+
+.d-flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.about .text {
+  color: grey;
+}
+
+.about .border {
+  border: 1px solid greenyellow;
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 100px;
+  height: 1px;
+  background-color: greenyellow;
+}
+
+.a {
+  font-weight: bold;
+  margin-top: -1px;
+}
+
+.d {
+  width: 1000px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.text2 {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.text3 {
+  margin-top: 20px;
+}
+
+.icon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 15px;
+}
+
+.far {
+  color: green;
+}
+
+.r {
+  margin-left: 8px;
+}
+
+.t {
+  margin-left: -20px;
+  margin-top: -0;
+}
+
+.but {
+  border: none;
+  margin-top: 10px;
+  border-radius: 40px;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  background-color: green;
+  color: white;
+}
+
+.img2 {
+  width: 500px;
+  height: 350px;
+}
+
+.number {
+  background-color: ghostwhite;
+}
+
+.num {
+  background-color: ghostwhite;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.n {
+  color: green;
+  font-weight: bold;
+  margin-left: 150px;
+}
+
+.container1 {
+  width: 1400px;
+  margin: auto;
+}
+
+.n1 {
+  color: green;
+  font-weight: bold;
+  margin-right: 100px;
+}
+
+.num1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.nn {
+  margin-left: 150px;
+  margin-top: -20px;
+}
+
+.nn3 {
+  margin-left: 382px;
+  margin-top: -20px;
+}
+
+.nn2 {
+  margin-left: 362px;
+  margin-top: -20px;
+}
+
+.nn1 {
+  margin-left: 217px;
+  margin-top: -20px;
+}
+/*# sourceMappingURL=mainn.css.map */
